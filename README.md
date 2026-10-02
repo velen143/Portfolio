@@ -1,4 +1,4 @@
-# Hi, I'm Shinta 👋
+# Hi, I'm Velen Shinta 👋
 
 ### Aspiring Data Analyst | Informatics Engineering Graduate
 
