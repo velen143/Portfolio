@@ -31,3 +31,10 @@ Untuk mengidentifikasi pola dan hubungan antar variabel, digunakan kombinasi vis
 ### Hasil Analisis 
 * Rata - rata saldo akhir bulan dan masa kerja menunjukkan korelasi positif. Ini mengindikasikan bahwa nasabah dengan kapasitas finansial yang kuat dan stabilitas pekerjaan yang konsisten tinggi memiliki skor kredit lebih baik.
 * Rasio Kewajiban terhadap pendapatan, jumlah transaksi perjudian menunjukkan korelasi negatif yang mengindikasikan bahwa beban finansial tinggi dan perilaku keuangan berisiko membuat skor kredit menurun.
+
+### Sumber Data
+Dataset: Financial Credibility & Loan Decision Dataset
+Source: Kaggle
+Author: Hrishit Patil
+Link: https://www.kaggle.com/datasets/hrishitpatil/financial-credibility-and-loan-decision-dataset
+
