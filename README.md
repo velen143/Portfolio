@@ -46,11 +46,5 @@ Bachelor's Degree in Informatics Engineering
 - Willingness to learn new tools and annotation workflows
 
 ### 📫 Contact
-
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **GitHub:** [Your GitHub Profile](https://github.com/)
-
-
 * **LinkedIn:** https://www.linkedin.com/in/velen-shinta-911431259/%20%7C
 * **Email:** velenshinta15@gmail.com
