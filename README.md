@@ -17,12 +17,13 @@ Through academic projects and independent learning, I have developed skills in d
 
 ### 📂 Featured Projects
 
-- **Employee Churn Analysis** — Explored employee characteristics and factors associated with employee turnover using Python and statistical analysis.
 - **Netflix Content Data Analysis** — Performed data cleaning, exploratory data analysis, and visualization using Python.
+  Dashboard Interaktif : https://merry-tapioca-6abef8.netlify.app
 - **Air Quality Data Analysis** — Processed and analyzed air quality data using SQL, MySQL, and Power BI.
+  Dashboard Interaktif : https://6af6866e391513fd4b7893a6--statuesque-empanada-b3b35a.netlify.app/
 - **Digital E-commerce Analysis** — Organized, processed, and analyzed data using Microsoft Excel and Power BI.
-- **Image Processing Projects** — Explored image segmentation, object counting, and color-based image retrieval using Python.
-
+  Dashboard Interaktif : https://capable-moxie-7aaba5.netlify.app
+  
 ### 📜 Certifications
 
 - **IBM** — Data Analysis Using Python
