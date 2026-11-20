@@ -23,6 +23,8 @@ Through academic projects and independent learning, I have developed skills in d
   Dashboard Interaktif : https://6af6866e391513fd4b7893a6--statuesque-empanada-b3b35a.netlify.app/
 - **Digital E-commerce Analysis** — Organized, processed, and analyzed data using Microsoft Excel and Power BI.
   Dashboard Interaktif : https://capable-moxie-7aaba5.netlify.app
+- Superstore Sales Analysis — Cleaned, organized, and analyzed sales data using Microsoft Excel and Power BI to identify sales trends, product performance, and regional business insights.
+  Dashboard Interaktif : https://lucky-treacle-203bf6.netlify.app/
   
 ### 📜 Certifications
 
